@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.example
+.env-example
+.env example
+
+# Python cache
+__pycache__/
+__pypcache__/
+
+# Requirements files to ignore (including possible misspelling)
+reqirement.txt
+requirements.txt
+
+# VS Code settings
+.vscode/
